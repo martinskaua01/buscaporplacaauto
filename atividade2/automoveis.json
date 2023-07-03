@@ -1,0 +1,63 @@
+[
+    {
+      "placa": "ABC1234",
+      "marca": "Volkswagen",
+      "modelo": "Gol",
+      "ano": 2023
+    },
+    {
+      "placa": "DEF5678",
+      "marca": "Chevrolet",
+      "modelo": "Onix",
+      "ano": 2021
+    },
+    {
+      "placa": "BCA8087",
+      "marca": "Ford",
+      "modelo": "Fiesta",
+      "ano": 2008
+    },
+    {
+      "placa": "KLJ2005",
+      "marca": "Ford",
+      "modelo": "Mustang GT",
+      "ano": 2007
+    },
+    {
+      "placa": "MNO7890",
+      "marca": "Honda",
+      "modelo": "Civic",
+      "ano": 2020
+    },
+    {
+      "placa": "PQR2345",
+      "marca": "Fiat",
+      "modelo": "Uno",
+      "ano": 2018
+    },
+    {
+      "placa": "OPE8335",
+      "marca": "Peugeout",
+      "modelo": "207",
+      "ano": 2023
+    },
+    {
+      "placa": "NQX9783",
+      "marca": "Nissan",
+      "modelo": "March",
+      "ano": 2013
+    },
+    {
+      "placa": "RAD5637",
+      "marca": "Hyundai",
+      "modelo": "Elantra",
+      "ano": 2021
+    },
+    {
+      "placa": "NOM9888",
+      "marca": "Ford",
+      "modelo": "Ranger",
+      "ano": 2022
+    }
+  ]
+  
